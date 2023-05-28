@@ -1,0 +1,5 @@
+D:\занятия\3 курс\wpf\WpfHello\WpfHello\obj\Debug\WpfHello.csproj.AssemblyReference.cache
+D:\занятия\3 курс\wpf\WpfHello\WpfHello\obj\Debug\MainWindow.g.cs
+D:\занятия\3 курс\wpf\WpfHello\WpfHello\obj\Debug\App.g.cs
+D:\занятия\3 курс\wpf\WpfHello\WpfHello\obj\Debug\WpfHello_MarkupCompile.cache
+D:\занятия\3 курс\wpf\WpfHello\WpfHello\obj\Debug\WpfHello_MarkupCompile.lref
