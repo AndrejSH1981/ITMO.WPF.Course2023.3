@@ -1,0 +1,15 @@
+D:\занятия\3 курс\wpf\ITMO.WpfCS.Cours2023-3.lab4\ITMO.WpfCS.Cours2023-3.lab4-3.UserIn3\ITMO.WpfCS.Cours2023-3.lab4-3.UserIn3\bin\Debug\ITMO.WpfCS.Cours2023-3.lab4-3.UserIn3.exe.config
+D:\занятия\3 курс\wpf\ITMO.WpfCS.Cours2023-3.lab4\ITMO.WpfCS.Cours2023-3.lab4-3.UserIn3\ITMO.WpfCS.Cours2023-3.lab4-3.UserIn3\bin\Debug\ITMO.WpfCS.Cours2023-3.lab4-3.UserIn3.exe
+D:\занятия\3 курс\wpf\ITMO.WpfCS.Cours2023-3.lab4\ITMO.WpfCS.Cours2023-3.lab4-3.UserIn3\ITMO.WpfCS.Cours2023-3.lab4-3.UserIn3\bin\Debug\ITMO.WpfCS.Cours2023-3.lab4-3.UserIn3.pdb
+D:\занятия\3 курс\wpf\ITMO.WpfCS.Cours2023-3.lab4\ITMO.WpfCS.Cours2023-3.lab4-3.UserIn3\ITMO.WpfCS.Cours2023-3.lab4-3.UserIn3\obj\Debug\ITMO.WpfCS.Cours2023-3.lab4-3.UserIn3.csproj.AssemblyReference.cache
+D:\занятия\3 курс\wpf\ITMO.WpfCS.Cours2023-3.lab4\ITMO.WpfCS.Cours2023-3.lab4-3.UserIn3\ITMO.WpfCS.Cours2023-3.lab4-3.UserIn3\obj\Debug\MainWindow.g.cs
+D:\занятия\3 курс\wpf\ITMO.WpfCS.Cours2023-3.lab4\ITMO.WpfCS.Cours2023-3.lab4-3.UserIn3\ITMO.WpfCS.Cours2023-3.lab4-3.UserIn3\obj\Debug\App.g.cs
+D:\занятия\3 курс\wpf\ITMO.WpfCS.Cours2023-3.lab4\ITMO.WpfCS.Cours2023-3.lab4-3.UserIn3\ITMO.WpfCS.Cours2023-3.lab4-3.UserIn3\obj\Debug\ITMO.WpfCS.Cours2023-3.lab4-3.UserIn3_MarkupCompile.cache
+D:\занятия\3 курс\wpf\ITMO.WpfCS.Cours2023-3.lab4\ITMO.WpfCS.Cours2023-3.lab4-3.UserIn3\ITMO.WpfCS.Cours2023-3.lab4-3.UserIn3\obj\Debug\ITMO.WpfCS.Cours2023-3.lab4-3.UserIn3_MarkupCompile.lref
+D:\занятия\3 курс\wpf\ITMO.WpfCS.Cours2023-3.lab4\ITMO.WpfCS.Cours2023-3.lab4-3.UserIn3\ITMO.WpfCS.Cours2023-3.lab4-3.UserIn3\obj\Debug\MainWindow.baml
+D:\занятия\3 курс\wpf\ITMO.WpfCS.Cours2023-3.lab4\ITMO.WpfCS.Cours2023-3.lab4-3.UserIn3\ITMO.WpfCS.Cours2023-3.lab4-3.UserIn3\obj\Debug\ITMO.WpfCS.Cours2023-3.lab4-3.UserIn3.g.resources
+D:\занятия\3 курс\wpf\ITMO.WpfCS.Cours2023-3.lab4\ITMO.WpfCS.Cours2023-3.lab4-3.UserIn3\ITMO.WpfCS.Cours2023-3.lab4-3.UserIn3\obj\Debug\ITMO.WpfCS.Cours2023_3.lab4_3.UserIn3.Properties.Resources.resources
+D:\занятия\3 курс\wpf\ITMO.WpfCS.Cours2023-3.lab4\ITMO.WpfCS.Cours2023-3.lab4-3.UserIn3\ITMO.WpfCS.Cours2023-3.lab4-3.UserIn3\obj\Debug\ITMO.WpfCS.Cours2023-3.lab4-3.UserIn3.csproj.GenerateResource.cache
+D:\занятия\3 курс\wpf\ITMO.WpfCS.Cours2023-3.lab4\ITMO.WpfCS.Cours2023-3.lab4-3.UserIn3\ITMO.WpfCS.Cours2023-3.lab4-3.UserIn3\obj\Debug\ITMO.WpfCS.Cours2023-3.lab4-3.UserIn3.csproj.CoreCompileInputs.cache
+D:\занятия\3 курс\wpf\ITMO.WpfCS.Cours2023-3.lab4\ITMO.WpfCS.Cours2023-3.lab4-3.UserIn3\ITMO.WpfCS.Cours2023-3.lab4-3.UserIn3\obj\Debug\ITMO.WpfCS.Cours2023-3.lab4-3.UserIn3.exe
+D:\занятия\3 курс\wpf\ITMO.WpfCS.Cours2023-3.lab4\ITMO.WpfCS.Cours2023-3.lab4-3.UserIn3\ITMO.WpfCS.Cours2023-3.lab4-3.UserIn3\obj\Debug\ITMO.WpfCS.Cours2023-3.lab4-3.UserIn3.pdb
