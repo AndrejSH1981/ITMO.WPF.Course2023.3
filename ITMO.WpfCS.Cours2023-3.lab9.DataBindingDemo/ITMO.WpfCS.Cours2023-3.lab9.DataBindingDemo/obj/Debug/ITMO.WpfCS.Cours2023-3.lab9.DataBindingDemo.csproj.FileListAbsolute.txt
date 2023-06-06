@@ -1,0 +1,16 @@
+D:\занятия\3 курс\wpf\ITMO.WpfCS.Cours2023-3.lab9.DataBindingDemo\ITMO.WpfCS.Cours2023-3.lab9.DataBindingDemo\obj\Debug\ITMO.WpfCS.Cours2023-3.lab9.DataBindingDemo.csproj.AssemblyReference.cache
+D:\занятия\3 курс\wpf\ITMO.WpfCS.Cours2023-3.lab9.DataBindingDemo\ITMO.WpfCS.Cours2023-3.lab9.DataBindingDemo\obj\Debug\MainWindow.g.cs
+D:\занятия\3 курс\wpf\ITMO.WpfCS.Cours2023-3.lab9.DataBindingDemo\ITMO.WpfCS.Cours2023-3.lab9.DataBindingDemo\obj\Debug\App.g.cs
+D:\занятия\3 курс\wpf\ITMO.WpfCS.Cours2023-3.lab9.DataBindingDemo\ITMO.WpfCS.Cours2023-3.lab9.DataBindingDemo\obj\Debug\ITMO.WpfCS.Cours2023-3.lab9.DataBindingDemo_MarkupCompile.cache
+D:\занятия\3 курс\wpf\ITMO.WpfCS.Cours2023-3.lab9.DataBindingDemo\ITMO.WpfCS.Cours2023-3.lab9.DataBindingDemo\obj\Debug\ITMO.WpfCS.Cours2023-3.lab9.DataBindingDemo_MarkupCompile.lref
+D:\занятия\3 курс\wpf\ITMO.WpfCS.Cours2023-3.lab9.DataBindingDemo\ITMO.WpfCS.Cours2023-3.lab9.DataBindingDemo\bin\Debug\ITMO.WpfCS.Cours2023-3.lab9.DataBindingDemo.exe.config
+D:\занятия\3 курс\wpf\ITMO.WpfCS.Cours2023-3.lab9.DataBindingDemo\ITMO.WpfCS.Cours2023-3.lab9.DataBindingDemo\bin\Debug\ITMO.WpfCS.Cours2023-3.lab9.DataBindingDemo.exe
+D:\занятия\3 курс\wpf\ITMO.WpfCS.Cours2023-3.lab9.DataBindingDemo\ITMO.WpfCS.Cours2023-3.lab9.DataBindingDemo\bin\Debug\ITMO.WpfCS.Cours2023-3.lab9.DataBindingDemo.pdb
+D:\занятия\3 курс\wpf\ITMO.WpfCS.Cours2023-3.lab9.DataBindingDemo\ITMO.WpfCS.Cours2023-3.lab9.DataBindingDemo\obj\Debug\MainWindow.baml
+D:\занятия\3 курс\wpf\ITMO.WpfCS.Cours2023-3.lab9.DataBindingDemo\ITMO.WpfCS.Cours2023-3.lab9.DataBindingDemo\obj\Debug\ITMO.WpfCS.Cours2023-3.lab9.DataBindingDemo.g.resources
+D:\занятия\3 курс\wpf\ITMO.WpfCS.Cours2023-3.lab9.DataBindingDemo\ITMO.WpfCS.Cours2023-3.lab9.DataBindingDemo\obj\Debug\ITMO.WpfCS.Cours2023_3.lab9.DataBindingDemo.Properties.Resources.resources
+D:\занятия\3 курс\wpf\ITMO.WpfCS.Cours2023-3.lab9.DataBindingDemo\ITMO.WpfCS.Cours2023-3.lab9.DataBindingDemo\obj\Debug\ITMO.WpfCS.Cours2023-3.lab9.DataBindingDemo.csproj.GenerateResource.cache
+D:\занятия\3 курс\wpf\ITMO.WpfCS.Cours2023-3.lab9.DataBindingDemo\ITMO.WpfCS.Cours2023-3.lab9.DataBindingDemo\obj\Debug\ITMO.WpfCS.Cours2023-3.lab9.DataBindingDemo.csproj.CoreCompileInputs.cache
+D:\занятия\3 курс\wpf\ITMO.WpfCS.Cours2023-3.lab9.DataBindingDemo\ITMO.WpfCS.Cours2023-3.lab9.DataBindingDemo\obj\Debug\ITMO.WpfCS.Cours2023-3.lab9.DataBindingDemo.exe
+D:\занятия\3 курс\wpf\ITMO.WpfCS.Cours2023-3.lab9.DataBindingDemo\ITMO.WpfCS.Cours2023-3.lab9.DataBindingDemo\obj\Debug\ITMO.WpfCS.Cours2023-3.lab9.DataBindingDemo.pdb
+D:\занятия\3 курс\wpf\ITMO.WpfCS.Cours2023-3.lab9.DataBindingDemo\ITMO.WpfCS.Cours2023-3.lab9.DataBindingDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
